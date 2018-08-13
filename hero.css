@@ -4,25 +4,28 @@ html, body{
 }
 
 header{
-  background-color: #0033aa;
+  background-color: #939aa2;
   padding: 35px;
   text-align: center;
 }
 
 h1{
   font-size: 90px;
-  color: white;
+  color: #ffea97;
 }
 
 header img{
-  border-radius: 200px;
+  border-radius: 200px 60px;
   max-height: 350px;
   max-width: 100%;
-  border: 15px solid red;
+  border: 15px solid #f14951;
 }
 
 img.big-image{
+  border: 10px solid #f14951;
+  border-radius: 200px;
   max-width: 100%;
+  margin: 30px 0px 10px 0px;
 }
 
 .content{
@@ -40,7 +43,7 @@ p.caption{
 ul{
   list-style:unset;
   padding: 0;
-  margin: 0;
+  margin: 0px 0px 20px 0px;
 }
 
 li{
